@@ -1,0 +1,46 @@
+{
+  "mail-configurations": [
+    {
+      "id": 1,
+      "accountName": "Office Account",
+      "email": "john@gmail.com",
+      "password": "123123",
+      "incomingServer": "imap",
+      "incomingServerPort": 991,
+      "outgoingServer": "smtp",
+      "outgoingServerPort": 465
+    },
+    {
+      "id": 2,
+      "accountName": "Personal Account",
+      "email": "john@yahoo.com",
+      "password": "98769876",
+      "incomingServer": "imap",
+      "incomingServerPort": 991,
+      "outgoingServer": "smtp",
+      "outgoingServerPort": 460
+    },
+    {
+      "id": 3,
+      "accountName": "Office Account",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "incomingServer": "imap",
+      "incomingServerPort": 991,
+      "outgoingServer": "smtp",
+      "outgoingServerPort": 465
+    }
+  ],
+  "emails": [
+    {
+      "to": "kamidi.purnachanderreddy@gmail.com",
+      "cc": "purna",
+      "bcc": "doono",
+      "subject": "regarding salary",
+      "body": "uuuuuu",
+      "scheduledDate": "2022-03-18",
+      "scheduledTime": "03:58",
+      "id": 3
+    }
+  ]
+}
